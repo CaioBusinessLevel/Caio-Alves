@@ -18,7 +18,7 @@ Uma breve descrição do outro projeto. Destaque desafios superados e resultados
 - Pacote Office: Word, Excel, Power Point
 
 ## Como Entrar em Contato
-- LinkedIn: [Caio Alves da Silva](link_do_perfil_linkedin)
+- LinkedIn: [Caio Alves da Silva](https://www.linkedin.com/in/caio-alves-993364212)
 - E-mail: caio.silva209@fatec.sp.gov.br
 
 ## Contribuições em Código Aberto
