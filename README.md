@@ -4,7 +4,7 @@
 Olá! Sou Caio Alves, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC-SP. Estou apaixonado por resolver problemas e aprender novas tecnologias. Atualmente, estou focado em aprimorar minhas habilidades em Java e Python.
 
 ## Projetos Destacados
-### [Projeto XYZ](link_do_projeto_xyz)
+### [VBA-CadastroDeAlunos](link_do_projeto_xyz)
 Descrição breve do projeto XYZ. Destaque principais funcionalidades e tecnologias utilizadas.
 
 ### [Outro Projeto](link_do_outro_projeto)
