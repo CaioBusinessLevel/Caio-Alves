@@ -5,59 +5,7 @@ Olá! Sou Caio Alves, estudante de Tecnologia em Análise e Desenvolvimento de S
 
 ## Projetos Destacados
 ### [VBA-CadastroDeAlunos](https://github.com/CaioBusinessLevel/VBA) 
-#Descrição:
-# Controle de Dados de Alunos em VBA
 
-Este projeto em VBA foi desenvolvido como uma solução para o controle de dados de alunos em uma escola. A professora propôs o desafio, incentivando o aprendizado prático em VBA e promovendo habilidades na manipulação de dados acadêmicos.
-
-## Funcionalidades Principais:
-
-1. *Cadastro de Alunos:*
-   - Registra o nome do aluno, notas 1 e 2.
-
-2. *Geração de RA Único:*
-   - Gera um Registro Acadêmico (RA) exclusivo para cada aluno.
-
-3. *Cálculo da Média:*
-   - Calcula a média entre as notas 1 e 2.
-
-4. *Classificação do Desempenho:*
-   - Classifica o aluno como Reprovado, Recuperação ou Aprovado com base na média.
-
-5. *Armazenamento na Planilha:*
-   - Registra as informações na planilha "CadastroAlunos".
-
-## Instruções para Uso:
-
-- *Cadastrar:*
-  - Insira o nome do aluno e suas notas, clique em "Cadastrar". O sistema gerará um RA único, calculará a média e registrará as informações na planilha.
-
-- *Consultar:*
-  - Insira o RA e clique em "Consultar" para ver as informações do aluno.
-
-- *Editar/Excluir:*
-  - Use os botões "Editar" e "Excluir" para modificar ou remover dados de um aluno existente.
-
-- *Limpar:*
-  - O botão "Limpar" limpa os campos de texto para um novo cadastro.
-
-- *Voltar:*
-  - O botão "Voltar" fecha o formulário.
-
-## Estrutura do Código VBA:
-
-
-### MóduloPrincipal
-
-```vba
-' Coloque aqui o código principal que controla o formulário e interações com a planilha.
-' Certifique-se de adicionar comentários explicativos.
-'
-' Exemplo:
-' - Tratamento de Erros
-' - Controle de Botões
-' - Funções Auxiliares
-' - etc.
 
 ### [Outro Projeto](link_do_outro_projeto)
 Uma breve descrição do outro projeto. Destaque desafios superados e resultados alcançados.
