@@ -5,6 +5,7 @@ Olá! Sou Caio Alves, estudante de Tecnologia em Análise e Desenvolvimento de S
 
 ## Projetos Destacados
 ### [VBA-CadastroDeAlunos](https://github.com/CaioBusinessLevel/VBA) 
+Este projeto em VBA foi desenvolvido como uma solução para o controle de dados de alunos em uma escola
 
 
 ### [Outro Projeto](link_do_outro_projeto)
