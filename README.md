@@ -4,41 +4,103 @@
 Olá! Sou Caio Alves, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC-SP. Estou apaixonado por resolver problemas e aprender novas tecnologias. Atualmente, estou focado em aprimorar minhas habilidades em Java e Python.
 
 ## Projetos Destacados
-### [VBA-CadastroDeAlunos](https://github.com/CaioBusinessLevel/VBA)*Controle de Dados de Alunos em VBA - Projeto Escolar*
+### [VBA-CadastroDeAlunos](https://github.com/CaioBusinessLevel/VBA) 
+#Descrição:
+# Controle de Dados de Alunos em VBA
 
-Este projeto em VBA (Visual Basic for Applications) foi desenvolvido para fornecer um sistema de registro e controle de dados de alunos em uma escola. A professora atribuiu a tarefa de criar um programa que permitisse o cadastro de alunos com suas notas, geração de RA exclusivo, cálculo da média e classificação de desempenho.
+Este projeto em VBA foi desenvolvido como uma solução para o controle de dados de alunos em uma escola. A professora propôs o desafio, incentivando o aprendizado prático em VBA e promovendo habilidades na manipulação de dados acadêmicos.
 
-*Funcionalidades Principais:*
+## Funcionalidades Principais:
 
 1. *Cadastro de Alunos:*
-   - O sistema permite o registro do nome de um aluno, suas notas 1 e 2.
+   - Registra o nome do aluno, notas 1 e 2.
 
 2. *Geração de RA Único:*
-   - Um RA (Registro Acadêmico) exclusivo é gerado para cada aluno, garantindo que não se repita para nenhum outro.
+   - Gera um Registro Acadêmico (RA) exclusivo para cada aluno.
 
 3. *Cálculo da Média:*
-   - O programa calcula a média entre as notas 1 e 2 de cada aluno, somando-as e dividindo por 2.
+   - Calcula a média entre as notas 1 e 2.
 
 4. *Classificação do Desempenho:*
-   - Com base na média calculada, o sistema classifica o aluno como:
-      - *Reprovado:* Se a média for menor que 5.
-      - *Recuperação:* Se a média for igual a 5.
-      - *Aprovado:* Se a média for maior que 5.
+   - Classifica o aluno como Reprovado, Recuperação ou Aprovado com base na média.
 
 5. *Armazenamento na Planilha:*
-   - As informações, incluindo RA, nome, notas, média e situação, são registradas na planilha correspondente.
+   - Registra as informações na planilha "CadastroAlunos".
 
-*Contribuição da Professora:*
+## Instruções para Uso:
 
-A professora desempenhou um papel fundamental ao propor esse desafio, estimulando o aprendizado em VBA e promovendo habilidades práticas na manipulação de dados acadêmicos. Sua orientação ajudou a criar uma ferramenta eficiente para avaliação e acompanhamento do desempenho dos alunos.
+- *Cadastrar:*
+  - Insira o nome do aluno e suas notas, clique em "Cadastrar". O sistema gerará um RA único, calculará a média e registrará as informações na planilha.
 
-*Instruções para Uso:*
-- Ao executar o programa, insira o nome do aluno, notas 1 e 2.
-- O sistema gerará automaticamente um RA único e calculará a média, classificando o aluno.
-- As informações são armazenadas na planilha para referência futura.
+- *Consultar:*
+  - Insira o RA e clique em "Consultar" para ver as informações do aluno.
 
-Este projeto representa uma aplicação prática dos conceitos aprendidos em VBA, proporcionando uma solução funcional para o controle de dados acadêmicos.
+- *Editar/Excluir:*
+  - Use os botões "Editar" e "Excluir" para modificar ou remover dados de um aluno existente.
 
+- *Limpar:*
+  - O botão "Limpar" limpa os campos de texto para um novo cadastro.
+
+- *Voltar:*
+  - O botão "Voltar" fecha o formulário.
+
+## Estrutura do Código VBA:
+
+# Controle de Dados de Alunos em VBA
+
+Este projeto em VBA foi desenvolvido como uma solução para o controle de dados de alunos em uma escola. A professora propôs o desafio, incentivando o aprendizado prático em VBA e promovendo habilidades na manipulação de dados acadêmicos.
+
+## Funcionalidades Principais:
+
+1. *Cadastro de Alunos:*
+   - Registra o nome do aluno, notas 1 e 2.
+
+2. *Geração de RA Único:*
+   - Gera um Registro Acadêmico (RA) exclusivo para cada aluno.
+
+3. *Cálculo da Média:*
+   - Calcula a média entre as notas 1 e 2.
+
+4. *Classificação do Desempenho:*
+   - Classifica o aluno como Reprovado, Recuperação ou Aprovado com base na média.
+
+5. *Armazenamento na Planilha:*
+   - Registra as informações na planilha "CadastroAlunos".
+
+## Contribuição da Professora:
+
+A professora desempenhou um papel fundamental ao propor esse desafio, incentivando o aprendizado em VBA e orientando na criação de uma ferramenta eficiente para avaliação e acompanhamento do desempenho dos alunos.
+
+## Instruções para Uso:
+
+- *Cadastrar:*
+  - Insira o nome do aluno e suas notas, clique em "Cadastrar". O sistema gerará um RA único, calculará a média e registrará as informações na planilha.
+
+- *Consultar:*
+  - Insira o RA e clique em "Consultar" para ver as informações do aluno.
+
+- *Editar/Excluir:*
+  - Use os botões "Editar" e "Excluir" para modificar ou remover dados de um aluno existente.
+
+- *Limpar:*
+  - O botão "Limpar" limpa os campos de texto para um novo cadastro.
+
+- *Voltar:*
+  - O botão "Voltar" fecha o formulário.
+
+## Estrutura do Código VBA:
+
+### MóduloPrincipal
+
+```vba
+' Coloque aqui o código principal que controla o formulário e interações com a planilha.
+' Certifique-se de adicionar comentários explicativos.
+'
+' Exemplo:
+' - Tratamento de Erros
+' - Controle de Botões
+' - Funções Auxiliares
+' - etc.
 ### [Outro Projeto](link_do_outro_projeto)
 Uma breve descrição do outro projeto. Destaque desafios superados e resultados alcançados.
 
